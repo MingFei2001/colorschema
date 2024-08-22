@@ -1,61 +1,107 @@
 {
-  "kanagawa": {
-    "name": "Kanagawa",
-    "author": "Tommaso Laurenzi",
-    "colors": {
+  "scheme": "Kanagawa",
+  "colors": {
+    "base": {
       "fujiWhite": "#DCD7BA",
       "oldWhite": "#C8C093",
       "sumiInk0": "#16161D",
       "sumiInk1": "#1F1F28",
       "sumiInk2": "#2A2A37",
       "sumiInk3": "#363646",
-      "sumiInk4": "#54546D",
+      "sumiInk4": "#54546D"
+    },
+    "blue": {
       "waveBlue1": "#223249",
       "waveBlue2": "#2D4F67",
-      "winterGreen": "#2B3328",
-      "winterYellow": "#49443C",
-      "winterRed": "#43242B",
-      "winterBlue": "#252535",
-      "autumnGreen": "#76946A",
-      "autumnRed": "#C34043",
-      "autumnYellow": "#DCA561",
-      "samuraiRed": "#E82424",
-      "roninYellow": "#FF9E3B",
-      "waveAqua1": "#6A9589",
-      "dragonBlue": "#658594",
-      "fujiGray": "#727169",
-      "springViolet1": "#938AA9",
-      "oniViolet": "#957FB8",
       "crystalBlue": "#7E9CD8",
-      "springViolet2": "#9CABCA",
       "springBlue": "#7FB4CA",
       "lightBlue": "#A3D4D5",
-      "waveAqua2": "#7AA89F",
-      "springGreen": "#98BB6C",
+      "dragonBlue": "#658594"
+    },
+    "green": {
+      "winterGreen": "#2B3328",
+      "autumnGreen": "#76946A",
+      "springGreen": "#98BB6C"
+    },
+    "red": {
+      "winterRed": "#43242B",
+      "autumnRed": "#C34043",
+      "samuraiRed": "#E82424",
+      "waveRed": "#E46876",
+      "peachRed": "#FF5D62"
+    },
+    "yellow": {
+      "winterYellow": "#49443C",
+      "roninYellow": "#FF9E3B",
       "boatYellow1": "#938056",
       "boatYellow2": "#C0A36E",
       "carpYellow": "#E6C384",
+      "autumnYellow": "#DCA561"
+    },
+    "other": {
+      "winterBlue": "#252535",
+      "waveAqua1": "#6A9589",
+      "waveAqua2": "#7AA89F",
+      "fujiGray": "#727169",
+      "springViolet1": "#938AA9",
+      "springViolet2": "#9CABCA",
+      "oniViolet": "#957FB8",
       "sakuraPink": "#D27E99",
-      "waveRed": "#E46876",
-      "peachRed": "#FF5D62",
       "surimiOrange": "#FFA066",
       "katanaGray": "#717C7C"
+    }
+  },
+  "semantic": {
+    "background": "#1F1F28",
+    "foreground": "#DCD7BA",
+    "cursor": "#C8C093",
+    "normal": {
+      "black": "#16161D",
+      "red": "#C34043",
+      "green": "#76946A",
+      "yellow": "#C0A36E",
+      "blue": "#7E9CD8",
+      "magenta": "#957FB8",
+      "cyan": "#6A9589",
+      "white": "#C8C093"
     },
-    "usage": {
-      "background": "sumiInk1",
-      "foreground": "fujiWhite",
-      "selection": "waveBlue1",
-      "comment": "fujiGray",
-      "keyword": "oniViolet",
-      "function": "crystalBlue",
-      "string": "springGreen",
-      "number": "sakuraPink",
-      "constant": "surimiOrange",
-      "type": "waveAqua2",
-      "error": "samuraiRed",
-      "warning": "roninYellow",
-      "info": "waveAqua1",
-      "hint": "dragonBlue"
+    "bright": {
+      "black": "#54546D",
+      "red": "#E82424",
+      "green": "#98BB6C",
+      "yellow": "#E6C384",
+      "blue": "#7FB4CA",
+      "magenta": "#938AA9",
+      "cyan": "#7AA89F",
+      "white": "#DCD7BA"
+    },
+    "selection": {
+      "background": "#223249",
+      "foreground": "#DCD7BA"
+    },
+    "ui": {
+      "accent": "#7E9CD8",
+      "panel_bg": "#2A2A37",
+      "panel_border": "#54546D",
+      "gutter": "#54546D",
+      "selection": "#223249",
+      "guides": "#54546D"
+    },
+    "syntax": {
+      "comment": "#727169",
+      "constant": "#FFA066",
+      "string": "#98BB6C",
+      "variable": "#DCD7BA",
+      "keyword": "#957FB8",
+      "function": "#7E9CD8",
+      "operator": "#C0A36E",
+      "type": "#7AA89F"
+    },
+    "diagnostic": {
+      "error": "#E82424",
+      "warning": "#FF9E3B",
+      "info": "#6A9589",
+      "hint": "#658594"
     }
   }
 }

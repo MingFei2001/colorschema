@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KanagawaColorScheme>
+  <Scheme name="Kanagawa"/>
+
+  <Colors>
+    <!-- Base colors -->
+    <BaseColors>
+      <Color name="fujiWhite" value="#DCD7BA"/>
+      <Color name="oldWhite" value="#C8C093"/>
+      <Color name="sumiInk0" value="#16161D"/>
+      <Color name="sumiInk1" value="#1F1F28"/>
+      <Color name="sumiInk2" value="#2A2A37"/>
+      <Color name="sumiInk3" value="#363646"/>
+      <Color name="sumiInk4" value="#54546D"/>
+    </BaseColors>
+
+    <!-- Blue shades -->
+    <BlueShades>
+      <Color name="waveBlue1" value="#223249"/>
+      <Color name="waveBlue2" value="#2D4F67"/>
+      <Color name="crystalBlue" value="#7E9CD8"/>
+      <Color name="springBlue" value="#7FB4CA"/>
+      <Color name="lightBlue" value="#A3D4D5"/>
+      <Color name="dragonBlue" value="#658594"/>
+    </BlueShades>
+
+    <!-- Green shades -->
+    <GreenShades>
+      <Color name="winterGreen" value="#2B3328"/>
+      <Color name="autumnGreen" value="#76946A"/>
+      <Color name="springGreen" value="#98BB6C"/>
+    </GreenShades>
+
+    <!-- Red shades -->
+    <RedShades>
+      <Color name="winterRed" value="#43242B"/>
+      <Color name="autumnRed" value="#C34043"/>
+      <Color name="samuraiRed" value="#E82424"/>
+      <Color name="waveRed" value="#E46876"/>
+      <Color name="peachRed" value="#FF5D62"/>
+    </RedShades>
+
+    <!-- Yellow shades -->
+    <YellowShades>
+      <Color name="winterYellow" value="#49443C"/>
+      <Color name="roninYellow" value="#FF9E3B"/>
+      <Color name="boatYellow1" value="#938056"/>
+      <Color name="boatYellow2" value="#C0A36E"/>
+      <Color name="carpYellow" value="#E6C384"/>
+      <Color name="autumnYellow" value="#DCA561"/>
+    </YellowShades>
+
+    <!-- Other colors -->
+    <OtherColors>
+      <Color name="winterBlue" value="#252535"/>
+      <Color name="waveAqua1" value="#6A9589"/>
+      <Color name="waveAqua2" value="#7AA89F"/>
+      <Color name="fujiGray" value="#727169"/>
+      <Color name="springViolet1" value="#938AA9"/>
+      <Color name="springViolet2" value="#9CABCA"/>
+      <Color name="oniViolet" value="#957FB8"/>
+      <Color name="sakuraPink" value="#D27E99"/>
+      <Color name="surimiOrange" value="#FFA066"/>
+      <Color name="katanaGray" value="#717C7C"/>
+    </OtherColors>
+  </Colors>
+
+  <SemanticColors>
+    <Background value="#1F1F28"/>
+    <Foreground value="#DCD7BA"/>
+    <Cursor value="#C8C093"/>
+
+    <Normal>
+      <Color name="black" value="#16161D"/>
+      <Color name="red" value="#C34043"/>
+      <Color name="green" value="#76946A"/>
+      <Color name="yellow" value="#C0A36E"/>
+      <Color name="blue" value="#7E9CD8"/>
+      <Color name="magenta" value="#957FB8"/>
+      <Color name="cyan" value="#6A9589"/>
+      <Color name="white" value="#C8C093"/>
+    </Normal>
+
+    <Bright>
+      <Color name="black" value="#54546D"/>
+      <Color name="red" value="#E82424"/>
+      <Color name="green" value="#98BB6C"/>
+      <Color name="yellow" value="#E6C384"/>
+      <Color name="blue" value="#7FB4CA"/>
+      <Color name="magenta" value="#938AA9"/>
+      <Color name="cyan" value="#7AA89F"/>
+      <Color name="white" value="#DCD7BA"/>
+    </Bright>
+
+    <Selection>
+      <Background value="#223249"/>
+      <Foreground value="#DCD7BA"/>
+    </Selection>
+
+    <UI>
+      <Accent value="#7E9CD8"/>
+      <PanelBackground value="#2A2A37"/>
+      <PanelBorder value="#54546D"/>
+      <Gutter value="#54546D"/>
+      <Selection value="#223249"/>
+      <Guides value="#54546D"/>
+    </UI>
+
+    <Syntax>
+      <Comment value="#727169"/>
+      <Constant value="#FFA066"/>
+      <String value="#98BB6C"/>
+      <Variable value="#DCD7BA"/>
+      <Keyword value="#957FB8"/>
+      <Function value="#7E9CD8"/>
+      <Operator value="#C0A36E"/>
+      <Type value="#7AA89F"/>
+    </Syntax>
+
+    <Diagnostic>
+      <Error value="#E82424"/>
+      <Warning value="#FF9E3B"/>
+      <Info value="#6A9589"/>
+      <Hint value="#658594"/>
+    </Diagnostic>
+  </SemanticColors>
+</KanagawaColorScheme>
