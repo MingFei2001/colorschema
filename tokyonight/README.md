@@ -1,4 +1,5 @@
 # Tokyo Night Colorscheme
+Author: [folke/tokyonight](https://github.com/folke/tokyonight.nvim)
 
 ## Background Colors
 

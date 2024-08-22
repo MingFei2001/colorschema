@@ -1,4 +1,5 @@
 # Tokyonight ColorScheme
+# Author: [folke/tokyonight](https://github.com/folke/tokyonight.nvim)
 colors:
   primary:
     background: "#222436"       # Background color
