@@ -1,0 +1,91 @@
+{
+  "background": "#222436",
+  "foreground": "#c8d3f5",
+  "selection_background": "#2d3f76",
+  "selection_foreground": "#c8d3f5",
+  "url_color": "#4fd6be",
+  "cursor_color": "#c8d3f5",
+  "cursor_text_color": "#222436",
+
+  "tabs": {
+    "active_tab_background": "#82aaff",
+    "active_tab_foreground": "#1e2030",
+    "inactive_tab_background": "#2f334d",
+    "inactive_tab_foreground": "#545c7e"
+  },
+
+  "windows": {
+    "active_border_color": "#82aaff",
+    "inactive_border_color": "#2f334d"
+  },
+
+  "colors": {
+    "normal": {
+      "black": "#1b1d2b",
+      "red": "#ff757f",
+      "green": "#c3e88d",
+      "yellow": "#ffc777",
+      "blue": "#82aaff",
+      "magenta": "#c099ff",
+      "cyan": "#86e1fc",
+      "white": "#828bb8"
+    },
+    "bright": {
+      "black": "#444a73",
+      "red": "#ff757f",
+      "green": "#c3e88d",
+      "yellow": "#ffc777",
+      "blue": "#82aaff",
+      "magenta": "#c099ff",
+      "cyan": "#86e1fc",
+      "white": "#c8d3f5"
+    },
+    "extended": {
+      "color16": "#ff966c",
+      "color17": "#c53b53"
+    }
+  },
+
+  "additional": {
+    "bg_dark": "#1e2030",
+    "bg_float": "#1e2030",
+    "bg_highlight": "#2f334d",
+    "bg_popup": "#1e2030",
+    "bg_search": "#3e68d7",
+    "bg_sidebar": "#1e2030",
+    "bg_statusline": "#1e2030",
+    "bg_visual": "#2d3f76",
+    "black": "#1b1d2b",
+    "blue0": "#3e68d7",
+    "blue1": "#65bcff",
+    "blue2": "#0db9d7",
+    "blue5": "#89ddff",
+    "blue6": "#b4f9f8",
+    "blue7": "#394b70",
+    "border_highlight": "#589ed7",
+    "comment": "#636da6",
+    "cyan": "#86e1fc",
+    "dark3": "#545c7e",
+    "dark5": "#737aa2",
+    "git_add": "#b8db87",
+    "git_change": "#7ca1f2",
+    "git_delete": "#e26a75",
+    "git_ignore": "#545c7e",
+    "green": "#c3e88d",
+    "green1": "#4fd6be",
+    "green2": "#41a6b5",
+    "hint": "#4fd6be",
+    "info": "#0db9d7",
+    "magenta": "#c099ff",
+    "magenta2": "#ff007c",
+    "none": "NONE",
+    "orange": "#ff966c",
+    "purple": "#fca7ea",
+    "red1": "#c53b53",
+    "teal": "#4fd6be",
+    "terminal_black": "#444a73",
+    "todo": "#82aaff",
+    "warning": "#ffc777",
+    "yellow": "#ffc777"
+  }
+}

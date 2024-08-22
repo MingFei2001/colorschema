@@ -1,0 +1,103 @@
+# Tokyonight ColorScheme
+colors:
+  primary:
+    background: "#222436"       # Background color
+    foreground: "#c8d3f5"       # Foreground color
+    selection_background: "#2d3f76" # Selection Background
+    selection_foreground: "#c8d3f5" # Selection Foreground
+    url_color: "#4fd6be"        # URL Color
+    cursor_color: "#c8d3f5"     # Cursor Color
+    cursor_text_color: "#222436" # Cursor Text Color
+
+# Tabs
+tabs:
+  active_tab:
+    background: "#82aaff"     # Active Tab Background
+    foreground: "#1e2030"     # Active Tab Foreground
+  inactive_tab:
+    background: "#2f334d"     # Inactive Tab Background
+    foreground: "#545c7e"     # Inactive Tab Foreground
+
+# Windows
+windows:
+  active_border_color: "#82aaff"       # Active Window Border Color
+  inactive_border_color: "#2f334d"     # Inactive Window Border Color
+
+# Normal Colors
+normal_colors:
+  color0: "#1b1d2b"    # Black
+  color1: "#ff757f"    # Red
+  color2: "#c3e88d"    # Green
+  color3: "#ffc777"    # Yellow
+  color4: "#82aaff"    # Blue
+  color5: "#c099ff"    # Magenta
+  color6: "#86e1fc"    # Cyan
+  color7: "#828bb8"    # White
+
+# Bright Colors
+bright_colors:
+  color8: "#444a73"    # Bright Black
+  color9: "#ff757f"    # Bright Red
+  color10: "#c3e88d"   # Bright Green
+  color11: "#ffc777"   # Bright Yellow
+  color12: "#82aaff"   # Bright Blue
+  color13: "#c099ff"   # Bright Magenta
+  color14: "#86e1fc"   # Bright Cyan
+  color15: "#c8d3f5"   # Bright White
+
+# Extended Colors
+extended_colors:
+  color16: "#ff966c"  # Extended Color 16
+  color17: "#c53b53"  # Extended Color 17
+
+# Additional Colors
+additional_colors:
+  bg_dark: "#1e2030"           # Background Dark
+  bg_float: "#1e2030"          # Background Float
+  bg_highlight: "#2f334d"      # Background Highlight
+  bg_popup: "#1e2030"          # Background Popup
+  bg_search: "#3e68d7"         # Background Search
+  bg_sidebar: "#1e2030"        # Background Sidebar
+  bg_statusline: "#1e2030"     # Background Statusline
+  bg_visual: "#2d3f76"         # Background Visual
+  black: "#1b1d2b"            # Black
+  blue: "#82aaff"             # Blue
+  blue0: "#3e68d7"            # Blue0
+  blue1: "#65bcff"            # Blue1
+  blue2: "#0db9d7"            # Blue2
+  blue5: "#89ddff"            # Blue5
+  blue6: "#b4f9f8"            # Blue6
+  blue7: "#394b70"            # Blue7
+  border_highlight: "#589ed7"  # Border Highlight
+  comment: "#636da6"          # Comment
+  cyan: "#86e1fc"             # Cyan
+  dark3: "#545c7e"            # Dark3
+  dark5: "#737aa2"            # Dark5
+  git_add: "#b8db87"          # Git Add
+  git_change: "#7ca1f2"       # Git Change
+  git_delete: "#e26a75"       # Git Delete
+  git_ignore: "#545c7e"       # Git Ignore
+  green: "#c3e88d"            # Green
+  green1: "#4fd6be"          # Green1
+  green2: "#41a6b5"          # Green2
+  hint: "#4fd6be"            # Hint
+  info: "#0db9d7"            # Info
+  magenta: "#c099ff"         # Magenta
+  magenta2: "#ff007c"        # Magenta2
+  none: "NONE"               # None
+  orange: "#ff966c"          # Orange
+  purple: "#fca7ea"          # Purple
+  rainbow: 
+    - "#82aaff"              # Rainbow Color 1
+    - "#ffc777"              # Rainbow Color 2
+    - "#c3e88d"              # Rainbow Color 3
+    - "#4fd6be"              # Rainbow Color 4
+    - "#c099ff"              # Rainbow Color 5
+    - "#fca7ea"              # Rainbow Color 6
+  red: "#ff757f"             # Red
+  red1: "#c53b53"            # Red1
+  teal: "#4fd6be"            # Teal
+  terminal_black: "#444a73"  # Terminal Black
+  todo: "#82aaff"            # TODO
+  warning: "#ffc777"         # Warning
+  yellow: "#ffc777"          # Yellow

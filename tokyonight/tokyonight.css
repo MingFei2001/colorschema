@@ -1,0 +1,98 @@
+/* Tokyonight Color Scheme */
+:root {
+  --background: #222436;
+  --foreground: #c8d3f5;
+  --selection-background: #2d3f76;
+  --selection-foreground: #c8d3f5;
+  --url-color: #4fd6be;
+  --cursor-color: #c8d3f5;
+  --cursor-text-color: #222436;
+}
+
+/* Tabs */
+.tab-active {
+  background: #82aaff;
+  color: #1e2030;
+}
+
+.tab-inactive {
+  background: #2f334d;
+  color: #545c7e;
+}
+
+/* Windows */
+.window-active-border {
+  border-color: #82aaff;
+}
+
+.window-inactive-border {
+  border-color: #2f334d;
+}
+
+/* Normal Colors */
+.color0 { color: #1b1d2b; } /* Black */
+.color1 { color: #ff757f; } /* Red */
+.color2 { color: #c3e88d; } /* Green */
+.color3 { color: #ffc777; } /* Yellow */
+.color4 { color: #82aaff; } /* Blue */
+.color5 { color: #c099ff; } /* Magenta */
+.color6 { color: #86e1fc; } /* Cyan */
+.color7 { color: #828bb8; } /* White */
+
+/* Bright Colors */
+.color8 { color: #444a73; } /* Bright Black */
+.color9 { color: #ff757f; } /* Bright Red */
+.color10 { color: #c3e88d; } /* Bright Green */
+.color11 { color: #ffc777; } /* Bright Yellow */
+.color12 { color: #82aaff; } /* Bright Blue */
+.color13 { color: #c099ff; } /* Bright Magenta */
+.color14 { color: #86e1fc; } /* Bright Cyan */
+.color15 { color: #c8d3f5; } /* Bright White */
+
+/* Extended Colors */
+.color16 { color: #ff966c; } /* Extended Color 16 */
+.color17 { color: #c53b53; } /* Extended Color 17 */
+
+/* Additional Colors */
+.bg-dark { background-color: #1e2030; }
+.bg-float { background-color: #1e2030; }
+.bg-highlight { background-color: #2f334d; }
+.bg-popup { background-color: #1e2030; }
+.bg-search { background-color: #3e68d7; }
+.bg-sidebar { background-color: #1e2030; }
+.bg-statusline { background-color: #1e2030; }
+.bg-visual { background-color: #2d3f76; }
+.black { color: #1b1d2b; }
+.blue { color: #82aaff; }
+.blue0 { color: #3e68d7; }
+.blue1 { color: #65bcff; }
+.blue2 { color: #0db9d7; }
+.blue5 { color: #89ddff; }
+.blue6 { color: #b4f9f8; }
+.blue7 { color: #394b70; }
+.border-highlight { border-color: #589ed7; }
+.comment { color: #636da6; }
+.cyan { color: #86e1fc; }
+.dark3 { color: #545c7e; }
+.dark5 { color: #737aa2; }
+.git-add { color: #b8db87; }
+.git-change { color: #7ca1f2; }
+.git-delete { color: #e26a75; }
+.git-ignore { color: #545c7e; }
+.green { color: #c3e88d; }
+.green1 { color: #4fd6be; }
+.green2 { color: #41a6b5; }
+.hint { color: #4fd6be; }
+.info { color: #0db9d7; }
+.magenta { color: #c099ff; }
+.magenta2 { color: #ff007c; }
+.none { color: none; }
+.orange { color: #ff966c; }
+.purple { color: #fca7ea; }
+.red { color: #ff757f; }
+.red1 { color: #c53b53; }
+.teal { color: #4fd6be; }
+.terminal-black { color: #444a73; }
+.todo { color: #82aaff; }
+.warning { color: #ffc777; }
+.yellow { color: #ffc777; }
