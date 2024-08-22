@@ -1,5 +1,5 @@
-# Kanagawa Color Scheme
-*Author: Tommaso Laurenzi*
+# Kanagawa Colorscheme
+*Author: [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)*
 
 ## Base Colors
 
