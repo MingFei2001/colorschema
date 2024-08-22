@@ -1,4 +1,5 @@
 # Everforest Colorscheme
+Author: [sainnhe/everforest](https://github.com/sainnhe/everforest)
 
 ## Background Colors
 
