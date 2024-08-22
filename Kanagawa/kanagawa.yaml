@@ -1,0 +1,108 @@
+# Kanagawa Color Scheme
+# Author: Tommaso Laurenzi
+
+scheme: "Kanagawa"
+
+colors:
+  # Base colors
+  fujiWhite: &fujiWhite "#DCD7BA"
+  oldWhite: &oldWhite "#C8C093"
+  sumiInk0: &sumiInk0 "#16161D"
+  sumiInk1: &sumiInk1 "#1F1F28"
+  sumiInk2: &sumiInk2 "#2A2A37"
+  sumiInk3: &sumiInk3 "#363646"
+  sumiInk4: &sumiInk4 "#54546D"
+
+  # Blue shades
+  waveBlue1: &waveBlue1 "#223249"
+  waveBlue2: &waveBlue2 "#2D4F67"
+  crystalBlue: &crystalBlue "#7E9CD8"
+  springBlue: &springBlue "#7FB4CA"
+  lightBlue: &lightBlue "#A3D4D5"
+  dragonBlue: &dragonBlue "#658594"
+
+  # Green shades
+  winterGreen: &winterGreen "#2B3328"
+  autumnGreen: &autumnGreen "#76946A"
+  springGreen: &springGreen "#98BB6C"
+
+  # Red shades
+  winterRed: &winterRed "#43242B"
+  autumnRed: &autumnRed "#C34043"
+  samuraiRed: &samuraiRed "#E82424"
+  waveRed: &waveRed "#E46876"
+  peachRed: &peachRed "#FF5D62"
+
+  # Yellow shades
+  winterYellow: &winterYellow "#49443C"
+  roninYellow: &roninYellow "#FF9E3B"
+  boatYellow1: &boatYellow1 "#938056"
+  boatYellow2: &boatYellow2 "#C0A36E"
+  carpYellow: &carpYellow "#E6C384"
+  autumnYellow: &autumnYellow "#DCA561"
+
+  # Other colors
+  winterBlue: &winterBlue "#252535"
+  waveAqua1: &waveAqua1 "#6A9589"
+  waveAqua2: &waveAqua2 "#7AA89F"
+  fujiGray: &fujiGray "#727169"
+  springViolet1: &springViolet1 "#938AA9"
+  springViolet2: &springViolet2 "#9CABCA"
+  oniViolet: &oniViolet "#957FB8"
+  sakuraPink: &sakuraPink "#D27E99"
+  surimiOrange: &surimiOrange "#FFA066"
+  katanaGray: &katanaGray "#717C7C"
+
+# Semantic color assignments
+semantic:
+  background: *sumiInk1
+  foreground: *fujiWhite
+  cursor: *oldWhite
+
+  normal:
+    black: *sumiInk0
+    red: *autumnRed
+    green: *autumnGreen
+    yellow: *boatYellow2
+    blue: *crystalBlue
+    magenta: *oniViolet
+    cyan: *waveAqua1
+    white: *oldWhite
+
+  bright:
+    black: *sumiInk4
+    red: *samuraiRed
+    green: *springGreen
+    yellow: *carpYellow
+    blue: *springBlue
+    magenta: *springViolet1
+    cyan: *waveAqua2
+    white: *fujiWhite
+
+  selection:
+    background: *waveBlue1
+    foreground: *fujiWhite
+
+  ui:
+    accent: *crystalBlue
+    panel_bg: *sumiInk2
+    panel_border: *sumiInk4
+    gutter: *sumiInk4
+    selection: *waveBlue1
+    guides: *sumiInk4
+
+  syntax:
+    comment: *fujiGray
+    constant: *surimiOrange
+    string: *springGreen
+    variable: *fujiWhite
+    keyword: *oniViolet
+    function: *crystalBlue
+    operator: *boatYellow2
+    type: *waveAqua2
+
+  diagnostic:
+    error: *samuraiRed
+    warning: *roninYellow
+    info: *waveAqua1
+    hint: *dragonBlue
