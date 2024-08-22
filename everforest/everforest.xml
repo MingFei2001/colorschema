@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorscheme name="Everforest">
+    <!-- Background Colors -->
+    <background>
+        <color name="bg_dim">#1E2326</color>
+        <color name="bgO">#272E33</color>
+        <color name="bg1">#2E383C</color>
+        <color name="bg2">#374145</color>
+        <color name="bg3">#414850</color>
+        <color name="bg4">#495156</color>
+        <color name="bg5">#4F5B58</color>
+    </background>
+
+    <!-- Background Theme Colors -->
+    <background_theme>
+        <color name="bg_red">#4C3743</color>
+        <color name="bg_visual">#493840</color>
+        <color name="bg_yellow">#45443C</color>
+        <color name="bg_green">#3C4841</color>
+        <color name="bg_blue">#384855</color>
+    </background_theme>
+
+    <!-- Main Color Palette -->
+    <palette>
+        <color name="red">#E67E80</color>
+        <color name="orange">#E69875</color>
+        <color name="yellow">#DBBC7F</color>
+        <color name="green">#A7C080</color>
+        <color name="blue">#7FBBB3</color>
+        <color name="aqua">#83C092</color>
+        <color name="purple">#D699B6</color>
+    </palette>
+
+    <!-- Foreground and Status Line Colors -->
+    <foreground>
+        <color name="fg">#D3C6AA</color>
+        <color name="statusline1">#A7C080</color>
+        <color name="statusline2">#D3C6AA</color>
+        <color name="statusline3">#E67E80</color>
+    </foreground>
+
+    <!-- Grayscale Colors -->
+    <grayscale>
+        <color name="grayo">#7A8478</color>
+        <color name="gray1">#859289</color>
+        <color name="gray2">#9DA9A0</color>
+    </grayscale>
+</colorscheme>
