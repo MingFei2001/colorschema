@@ -12,8 +12,8 @@ Welcome to the Color Schemes Repository! This repository serves as a comprehensi
 - JSON
 - XML
 - YAML
+- CSS
 - Markdown
-- TOML
 
 ## License
 This repository is licensed under the MIT License.
