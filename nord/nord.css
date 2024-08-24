@@ -1,0 +1,121 @@
+/* Nord Color Scheme */
+
+:root {
+	/* General Colors */
+	--nord-background: #2e3440;
+	--nord-foreground: #d8dee9;
+	--nord-border: #3b4252;
+
+	/* Activity Bar */
+	--nord-activity-bar-background: #2e3440;
+	--nord-activity-bar-foreground: #d8dee9;
+	--nord-activity-bar-active-border: #88c0d0;
+	--nord-activity-bar-active-background: #3b4252;
+	--nord-activity-bar-badge-background: #88c0d0;
+	--nord-activity-bar-badge-foreground: #2e3440;
+
+	/* Button */
+	--nord-button-background: #88c0d0ee;
+	--nord-button-foreground: #2e3440;
+	--nord-button-hover-background: #88c0d0;
+	--nord-button-secondary-background: #434c5e;
+	--nord-button-secondary-foreground: #d8dee9;
+	--nord-button-secondary-hover-background: #4c566a;
+
+	/* Chart */
+	--nord-chart-red: #bf616a;
+	--nord-chart-blue: #81a1c1;
+	--nord-chart-yellow: #ebcb8b;
+	--nord-chart-orange: #d08770;
+	--nord-chart-green: #a3be8c;
+	--nord-chart-purple: #b48ead;
+	--nord-chart-foreground: #d8dee9;
+	--nord-chart-lines: #88c0d0;
+
+	/* Editor */
+	--nord-editor-background: #2e3440;
+	--nord-editor-foreground: #d8dee9;
+	--nord-editor-cursor: #d8dee9;
+	--nord-editor-line-number: #4c566a;
+	--nord-editor-line-number-active: #d8dee9;
+	--nord-editor-selection-background: #434c5ecc;
+	--nord-editor-selection-highlight-background: #434c5ecc;
+	--nord-editor-line-highlight: #3b4252;
+	--nord-editor-word-highlight-background: #81a1c166;
+	--nord-editor-word-highlight-strong-background: #81a1c199;
+	--nord-editor-find-match-background: #88c0d066;
+	--nord-editor-find-match-highlight-background: #88c0d033;
+	--nord-editor-inactive-selection: #434c5ecc;
+
+	/* List */
+	--nord-list-active-selection-background: #88c0d0;
+	--nord-list-active-selection-foreground: #2e3440;
+	--nord-list-hover-background: #3b4252;
+	--nord-list-focus-background: #88c0d099;
+	--nord-list-highlight-foreground: #88c0d0;
+	--nord-list-error-foreground: #bf616a;
+	--nord-list-warning-foreground: #ebcb8b;
+
+	/* Notification */
+	--nord-notification-background: #3b4252;
+	--nord-notification-foreground: #d8dee9;
+	--nord-notification-error-background: #bf616a;
+	--nord-notification-error-foreground: #2e3440;
+	--nord-notification-info-background: #88c0d0;
+	--nord-notification-info-foreground: #2e3440;
+	--nord-notification-warning-background: #ebcb8b;
+	--nord-notification-warning-foreground: #2e3440;
+
+	/* Status Bar */
+	--nord-status-bar-background: #3b4252;
+	--nord-status-bar-foreground: #d8dee9;
+	--nord-status-bar-debugging-background: #5e81ac;
+	--nord-status-bar-debugging-foreground: #d8dee9;
+
+	/* Tab */
+	--nord-tab-active-background: #3b4252;
+	--nord-tab-active-foreground: #d8dee9;
+	--nord-tab-inactive-background: #2e3440;
+	--nord-tab-inactive-foreground: #d8dee966;
+	--nord-tab-hover-background: #3b4252cc;
+
+	/* Terminal */
+	--nord-terminal-background: #2e3440;
+	--nord-terminal-foreground: #d8dee9;
+	--nord-terminal-ansi-black: #3b4252;
+	--nord-terminal-ansi-red: #bf616a;
+	--nord-terminal-ansi-green: #a3be8c;
+	--nord-terminal-ansi-yellow: #ebcb8b;
+	--nord-terminal-ansi-blue: #81a1c1;
+	--nord-terminal-ansi-magenta: #b48ead;
+	--nord-terminal-ansi-cyan: #88c0d0;
+	--nord-terminal-ansi-white: #e5e9f0;
+	--nord-terminal-bright-black: #4c566a;
+	--nord-terminal-bright-red: #bf616a;
+	--nord-terminal-bright-green: #a3be8c;
+	--nord-terminal-bright-yellow: #ebcb8b;
+	--nord-terminal-bright-blue: #81a1c1;
+	--nord-terminal-bright-magenta: #b48ead;
+	--nord-terminal-bright-cyan: #88c0d0;
+	--nord-terminal-bright-white: #e5e9f0;
+
+	/* Scrollbar */
+	--nord-scrollbar-shadow: #00000066;
+	--nord-scrollbar-slider-background: #434c5e99;
+	--nord-scrollbar-slider-hover-background: #434c5eaa;
+
+	/* Editor Group */
+	--nord-editor-group-background: #2e3440;
+	--nord-editor-group-border: #3b425201;
+	--nord-editor-group-drop-background: #3b425299;
+
+	/* Peek View */
+	--nord-peek-view-background: #2e3440;
+	--nord-peek-view-border: #4c566a;
+	--nord-peek-view-result-background: #2e3440;
+	--nord-peek-view-result-file-foreground: #88c0d0;
+	--nord-peek-view-result-line-foreground: #d8dee966;
+	--nord-peek-view-title-background: #3b4252;
+	--nord-peek-view-title-description-foreground: #d8dee9;
+	--nord-peek-view-title-label-foreground: #88c0d0;
+}

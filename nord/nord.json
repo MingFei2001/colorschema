@@ -1,0 +1,152 @@
+{
+  "name": "Nord",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "colors": {
+    "focusBorder": "#3b4252",
+    "foreground": "#d8dee9",
+    "background": "#2e3440",
+    "border": "#3b4252",
+    "activityBar": {
+      "background": "#2e3440",
+      "foreground": "#d8dee9",
+      "activeBorder": "#88c0d0",
+      "activeBackground": "#3b4252",
+      "badge": {
+        "background": "#88c0d0",
+        "foreground": "#2e3440"
+      }
+    },
+    "button": {
+      "background": "#88c0d0ee",
+      "foreground": "#2e3440",
+      "hoverBackground": "#88c0d0",
+      "secondaryBackground": "#434c5e",
+      "secondaryForeground": "#d8dee9",
+      "secondaryHoverBackground": "#4c566a"
+    },
+    "chart": {
+      "red": "#bf616a",
+      "blue": "#81a1c1",
+      "yellow": "#ebcb8b",
+      "orange": "#d08770",
+      "green": "#a3be8c",
+      "purple": "#b48ead",
+      "foreground": "#d8dee9",
+      "lines": "#88c0d0"
+    },
+    "editor": {
+      "background": "#2e3440",
+      "foreground": "#d8dee9",
+      "cursor": "#d8dee9",
+      "lineNumber": {
+        "foreground": "#4c566a",
+        "activeForeground": "#d8dee9"
+      },
+      "selection": {
+        "background": "#434c5ecc",
+        "highlightBackground": "#434c5ecc"
+      },
+      "lineHighlight": "#3b4252",
+      "wordHighlight": {
+        "background": "#81a1c166",
+        "strongBackground": "#81a1c199"
+      },
+      "findMatch": {
+        "background": "#88c0d066",
+        "highlightBackground": "#88c0d033"
+      },
+      "inactiveSelection": "#434c5ecc"
+    },
+    "list": {
+      "activeSelection": {
+        "background": "#88c0d0",
+        "foreground": "#2e3440"
+      },
+      "hoverBackground": "#3b4252",
+      "focusBackground": "#88c0d099",
+      "highlightForeground": "#88c0d0",
+      "errorForeground": "#bf616a",
+      "warningForeground": "#ebcb8b"
+    },
+    "notification": {
+      "background": "#3b4252",
+      "foreground": "#d8dee9",
+      "error": {
+        "background": "#bf616a",
+        "foreground": "#2e3440"
+      },
+      "info": {
+        "background": "#88c0d0",
+        "foreground": "#2e3440"
+      },
+      "warning": {
+        "background": "#ebcb8b",
+        "foreground": "#2e3440"
+      }
+    },
+    "statusBar": {
+      "background": "#3b4252",
+      "foreground": "#d8dee9",
+      "debugging": {
+        "background": "#5e81ac",
+        "foreground": "#d8dee9"
+      }
+    },
+    "tab": {
+      "activeBackground": "#3b4252",
+      "activeForeground": "#d8dee9",
+      "inactiveBackground": "#2e3440",
+      "inactiveForeground": "#d8dee966",
+      "hoverBackground": "#3b4252cc"
+    },
+    "terminal": {
+      "background": "#2e3440",
+      "foreground": "#d8dee9",
+      "ansi": {
+        "black": "#3b4252",
+        "red": "#bf616a",
+        "green": "#a3be8c",
+        "yellow": "#ebcb8b",
+        "blue": "#81a1c1",
+        "magenta": "#b48ead",
+        "cyan": "#88c0d0",
+        "white": "#e5e9f0",
+        "brightBlack": "#4c566a",
+        "brightRed": "#bf616a",
+        "brightGreen": "#a3be8c",
+        "brightYellow": "#ebcb8b",
+        "brightBlue": "#81a1c1",
+        "brightMagenta": "#b48ead",
+        "brightCyan": "#88c0d0",
+        "brightWhite": "#e5e9f0"
+      }
+    },
+    "scrollbar": {
+      "shadow": "#00000066",
+      "slider": {
+        "background": "#434c5e99",
+        "hoverBackground": "#434c5eaa"
+      }
+    },
+    "editorGroup": {
+      "background": "#2e3440",
+      "border": "#3b425201",
+      "dropBackground": "#3b425299"
+    },
+    "peekView": {
+      "background": "#2e3440",
+      "border": "#4c566a",
+      "result": {
+        "background": "#2e3440",
+        "fileForeground": "#88c0d0",
+        "lineForeground": "#d8dee966"
+      },
+      "title": {
+        "background": "#3b4252",
+        "descriptionForeground": "#d8dee9",
+        "labelForeground": "#88c0d0"
+      }
+    }
+  }
+}
